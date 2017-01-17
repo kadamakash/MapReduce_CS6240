@@ -1,0 +1,192 @@
+16/10/09 14:22:01 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+16/10/09 14:22:01 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+16/10/09 14:22:01 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+16/10/09 14:22:01 INFO input.FileInputFormat: Total input paths to process : 10
+16/10/09 14:22:01 WARN snappy.LoadSnappy: Snappy native library not loaded
+16/10/09 14:22:02 INFO mapred.JobClient: Running job: job_local2023314714_0001
+16/10/09 14:22:02 INFO mapred.LocalJobRunner: Waiting for map tasks
+16/10/09 14:22:02 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000000_0
+16/10/09 14:22:02 INFO util.ProcessTree: setsid exited with exit code 0
+16/10/09 14:22:02 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@4c86fbab
+16/10/09 14:22:02 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1888.csv:0+34722725
+16/10/09 14:22:02 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:02 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:02 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:03 INFO mapred.JobClient:  map 0% reduce 0%
+16/10/09 14:22:04 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:06 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:06 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000000_0 is done. And is in the process of commiting
+16/10/09 14:22:06 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:06 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000000_0' done.
+16/10/09 14:22:06 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000000_0
+16/10/09 14:22:06 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000001_0
+16/10/09 14:22:06 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@4912b4c5
+16/10/09 14:22:06 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1889.csv:0+33554432
+16/10/09 14:22:06 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:06 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:06 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:06 INFO mapred.JobClient:  map 9% reduce 0%
+16/10/09 14:22:07 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:08 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:08 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000001_0 is done. And is in the process of commiting
+16/10/09 14:22:08 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:08 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000001_0' done.
+16/10/09 14:22:08 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000001_0
+16/10/09 14:22:08 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000002_0
+16/10/09 14:22:08 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@64786cc2
+16/10/09 14:22:08 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1887.csv:0+31500551
+16/10/09 14:22:08 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:08 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:08 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:09 INFO mapred.JobClient:  map 18% reduce 0%
+16/10/09 14:22:09 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:10 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:10 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000002_0 is done. And is in the process of commiting
+16/10/09 14:22:10 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:10 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000002_0' done.
+16/10/09 14:22:10 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000002_0
+16/10/09 14:22:10 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000003_0
+16/10/09 14:22:10 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@6895959f
+16/10/09 14:22:10 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1886.csv:0+27834506
+16/10/09 14:22:10 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:10 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:10 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:11 INFO mapred.JobClient:  map 27% reduce 0%
+16/10/09 14:22:11 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:12 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:12 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000003_0 is done. And is in the process of commiting
+16/10/09 14:22:12 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:12 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000003_0' done.
+16/10/09 14:22:12 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000003_0
+16/10/09 14:22:12 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000004_0
+16/10/09 14:22:12 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@6cc3c69a
+16/10/09 14:22:12 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1885.csv:0+25143566
+16/10/09 14:22:12 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:12 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:12 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:13 INFO mapred.JobClient:  map 36% reduce 0%
+16/10/09 14:22:13 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:14 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:14 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000004_0 is done. And is in the process of commiting
+16/10/09 14:22:14 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:14 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000004_0' done.
+16/10/09 14:22:14 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000004_0
+16/10/09 14:22:14 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000005_0
+16/10/09 14:22:14 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@afe5d86
+16/10/09 14:22:14 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1884.csv:0+21748113
+16/10/09 14:22:14 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:14 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:14 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:15 INFO mapred.JobClient:  map 45% reduce 0%
+16/10/09 14:22:15 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:16 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:16 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000005_0 is done. And is in the process of commiting
+16/10/09 14:22:16 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:16 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000005_0' done.
+16/10/09 14:22:16 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000005_0
+16/10/09 14:22:16 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000006_0
+16/10/09 14:22:16 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@2974a36
+16/10/09 14:22:16 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1883.csv:0+17378617
+16/10/09 14:22:16 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:16 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:16 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:17 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:17 INFO mapred.JobClient:  map 54% reduce 0%
+16/10/09 14:22:17 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:17 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000006_0 is done. And is in the process of commiting
+16/10/09 14:22:17 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:17 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000006_0' done.
+16/10/09 14:22:17 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000006_0
+16/10/09 14:22:17 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000007_0
+16/10/09 14:22:17 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5f5a49ee
+16/10/09 14:22:17 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1882.csv:0+15247444
+16/10/09 14:22:17 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:17 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:17 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:18 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:18 INFO mapred.JobClient:  map 63% reduce 0%
+16/10/09 14:22:18 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:18 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000007_0 is done. And is in the process of commiting
+16/10/09 14:22:18 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:18 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000007_0' done.
+16/10/09 14:22:18 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000007_0
+16/10/09 14:22:18 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000008_0
+16/10/09 14:22:18 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@34e0acc3
+16/10/09 14:22:18 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1881.csv:0+13557834
+16/10/09 14:22:18 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:18 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:18 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:19 INFO mapred.JobClient:  map 72% reduce 0%
+16/10/09 14:22:19 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:20 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:20 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000008_0 is done. And is in the process of commiting
+16/10/09 14:22:20 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:20 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000008_0' done.
+16/10/09 14:22:20 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000008_0
+16/10/09 14:22:20 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000009_0
+16/10/09 14:22:20 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@14cf3e84
+16/10/09 14:22:20 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1880.csv:0+11157607
+16/10/09 14:22:20 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:20 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:20 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:20 INFO mapred.JobClient:  map 81% reduce 0%
+16/10/09 14:22:20 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:21 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:21 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000009_0 is done. And is in the process of commiting
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:21 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000009_0' done.
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000009_0
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: Starting task: attempt_local2023314714_0001_m_000010_0
+16/10/09 14:22:21 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@1ed8510a
+16/10/09 14:22:21 INFO mapred.MapTask: Processing split: file:/home/akash/Desktop/CS6240/hw2/csv/1889.csv:33554432+3716325
+16/10/09 14:22:21 INFO mapred.MapTask: io.sort.mb = 100
+16/10/09 14:22:21 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/10/09 14:22:21 INFO mapred.MapTask: record buffer = 262144/327680
+16/10/09 14:22:21 INFO mapred.MapTask: Starting flush of map output
+16/10/09 14:22:21 INFO mapred.MapTask: Finished spill 0
+16/10/09 14:22:21 INFO mapred.Task: Task:attempt_local2023314714_0001_m_000010_0 is done. And is in the process of commiting
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:21 INFO mapred.Task: Task 'attempt_local2023314714_0001_m_000010_0' done.
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: Finishing task: attempt_local2023314714_0001_m_000010_0
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: Map task executor complete.
+16/10/09 14:22:21 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@8963f0e
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:21 INFO mapred.Merger: Merging 11 sorted segments
+16/10/09 14:22:21 INFO mapred.Merger: Merging 2 intermediate segments out of a total of 11
+16/10/09 14:22:21 INFO mapred.JobClient:  map 100% reduce 0%
+16/10/09 14:22:21 INFO mapred.Merger: Down to the last merge-pass, with 10 segments left of total size: 54026477 bytes
+16/10/09 14:22:21 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:26 INFO mapred.Task: Task:attempt_local2023314714_0001_r_000000_0 is done. And is in the process of commiting
+16/10/09 14:22:26 INFO mapred.LocalJobRunner: 
+16/10/09 14:22:26 INFO mapred.Task: Task attempt_local2023314714_0001_r_000000_0 is allowed to commit now
+16/10/09 14:22:26 INFO output.FileOutputCommitter: Saved output of task 'attempt_local2023314714_0001_r_000000_0' to /home/akash/Desktop/CS6240/hw2/csvOP
+16/10/09 14:22:26 INFO mapred.LocalJobRunner: reduce > reduce
+16/10/09 14:22:26 INFO mapred.Task: Task 'attempt_local2023314714_0001_r_000000_0' done.
+16/10/09 14:22:26 INFO mapred.JobClient:  map 100% reduce 100%
+16/10/09 14:22:26 INFO mapred.JobClient: Job complete: job_local2023314714_0001
+16/10/09 14:22:26 INFO mapred.JobClient: Counters: 20
+16/10/09 14:22:26 INFO mapred.JobClient:   Map-Reduce Framework
+16/10/09 14:22:26 INFO mapred.JobClient:     Spilled Records=3062274
+16/10/09 14:22:26 INFO mapred.JobClient:     Map output materialized bytes=54026523
+16/10/09 14:22:26 INFO mapred.JobClient:     Reduce input records=1470207
+16/10/09 14:22:26 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=0
+16/10/09 14:22:26 INFO mapred.JobClient:     Map input records=7003910
+16/10/09 14:22:26 INFO mapred.JobClient:     SPLIT_RAW_BYTES=1243
+16/10/09 14:22:26 INFO mapred.JobClient:     Map output bytes=51086043
+16/10/09 14:22:26 INFO mapred.JobClient:     Reduce shuffle bytes=0
+16/10/09 14:22:26 INFO mapred.JobClient:     Physical memory (bytes) snapshot=0
+16/10/09 14:22:26 INFO mapred.JobClient:     Reduce input groups=441
+16/10/09 14:22:26 INFO mapred.JobClient:     Combine output records=0
+16/10/09 14:22:26 INFO mapred.JobClient:     Reduce output records=441
+16/10/09 14:22:26 INFO mapred.JobClient:     Map output records=1470207
+16/10/09 14:22:26 INFO mapred.JobClient:     Combine input records=0
+16/10/09 14:22:26 INFO mapred.JobClient:     CPU time spent (ms)=0
+16/10/09 14:22:26 INFO mapred.JobClient:     Total committed heap usage (bytes)=10289676288
+16/10/09 14:22:26 INFO mapred.JobClient:   File Input Format Counters 
+16/10/09 14:22:26 INFO mapred.JobClient:     Bytes Read=235565816
+16/10/09 14:22:26 INFO mapred.JobClient:   FileSystemCounters
+16/10/09 14:22:26 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=436817311
+16/10/09 14:22:26 INFO mapred.JobClient:     FILE_BYTES_READ=2038950582
+16/10/09 14:22:26 INFO mapred.JobClient:   File Output Format Counters 
+16/10/09 14:22:26 INFO mapred.JobClient:     Bytes Written=62155
+

@@ -1,0 +1,13 @@
+2016-10-23 23:58:48,478 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-20-59.ec2.internal/172.31.20.59:8032
+2016-10-23 23:58:52,132 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 4
+2016-10-23 23:58:52,144 INFO com.hadoop.compression.lzo.GPLNativeCodeLoader (main): Loaded native gpl library
+2016-10-23 23:58:52,146 INFO com.hadoop.compression.lzo.LzoCodec (main): Successfully loaded & initialized native-lzo library [hadoop-lzo rev d3b0dff2e822276bf5b9409a0e30db8a3d1ed468]
+2016-10-23 23:58:52,554 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:106
+2016-10-23 23:58:53,411 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1477266984957_0001
+2016-10-23 23:58:53,793 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1477266984957_0001
+2016-10-23 23:58:54,007 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-20-59.ec2.internal:20888/proxy/application_1477266984957_0001/
+2016-10-23 23:58:54,009 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1477266984957_0001
+2016-10-23 23:59:04,192 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1477266984957_0001 running in uber mode : false
+2016-10-23 23:59:04,193 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-10-23 23:59:41,531 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-10-23 23:59:55,596 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%

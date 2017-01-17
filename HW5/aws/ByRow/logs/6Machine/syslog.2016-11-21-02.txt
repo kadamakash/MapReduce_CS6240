@@ -1,0 +1,1220 @@
+2016-11-21 02:00:14,817 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 23%
+2016-11-21 02:00:26,844 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 23%
+2016-11-21 02:00:28,849 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 24%
+2016-11-21 02:00:34,863 INFO org.apache.hadoop.mapreduce.Job (main):  map 77% reduce 24%
+2016-11-21 02:00:42,881 INFO org.apache.hadoop.mapreduce.Job (main):  map 78% reduce 24%
+2016-11-21 02:00:50,900 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 24%
+2016-11-21 02:00:52,904 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 25%
+2016-11-21 02:01:01,928 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 25%
+2016-11-21 02:01:06,940 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 25%
+2016-11-21 02:01:07,942 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 26%
+2016-11-21 02:01:19,969 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 26%
+2016-11-21 02:01:27,992 INFO org.apache.hadoop.mapreduce.Job (main):  map 83% reduce 26%
+2016-11-21 02:01:28,994 INFO org.apache.hadoop.mapreduce.Job (main):  map 83% reduce 27%
+2016-11-21 02:01:43,029 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 27%
+2016-11-21 02:02:04,079 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 27%
+2016-11-21 02:02:20,115 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 27%
+2016-11-21 02:02:31,146 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 27%
+2016-11-21 02:02:49,201 INFO org.apache.hadoop.mapreduce.Job (main):  map 88% reduce 27%
+2016-11-21 02:02:57,225 INFO org.apache.hadoop.mapreduce.Job (main):  map 89% reduce 27%
+2016-11-21 02:02:59,230 INFO org.apache.hadoop.mapreduce.Job (main):  map 89% reduce 28%
+2016-11-21 02:03:02,237 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 29%
+2016-11-21 02:03:19,285 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 29%
+2016-11-21 02:03:32,315 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 29%
+2016-11-21 02:03:38,329 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 30%
+2016-11-21 02:03:46,347 INFO org.apache.hadoop.mapreduce.Job (main):  map 93% reduce 30%
+2016-11-21 02:04:00,380 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 30%
+2016-11-21 02:04:16,417 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 30%
+2016-11-21 02:04:29,447 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 31%
+2016-11-21 02:04:31,452 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 31%
+2016-11-21 02:04:43,480 INFO org.apache.hadoop.mapreduce.Job (main):  map 97% reduce 31%
+2016-11-21 02:04:49,497 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 31%
+2016-11-21 02:04:50,500 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 32%
+2016-11-21 02:05:18,563 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 32%
+2016-11-21 02:05:42,623 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 32%
+2016-11-21 02:05:44,629 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 67%
+2016-11-21 02:05:50,644 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 68%
+2016-11-21 02:05:56,660 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 69%
+2016-11-21 02:06:02,675 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 70%
+2016-11-21 02:06:08,691 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 71%
+2016-11-21 02:06:11,698 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 72%
+2016-11-21 02:06:17,714 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 73%
+2016-11-21 02:06:20,721 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 74%
+2016-11-21 02:06:26,737 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 75%
+2016-11-21 02:06:29,748 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 76%
+2016-11-21 02:06:35,764 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 77%
+2016-11-21 02:06:41,779 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 78%
+2016-11-21 02:06:44,787 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 79%
+2016-11-21 02:06:50,811 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 80%
+2016-11-21 02:06:53,823 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 81%
+2016-11-21 02:06:59,840 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 82%
+2016-11-21 02:07:02,848 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 83%
+2016-11-21 02:07:11,876 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 84%
+2016-11-21 02:07:26,916 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 85%
+2016-11-21 02:07:38,948 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 86%
+2016-11-21 02:07:47,972 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 87%
+2016-11-21 02:07:50,979 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 88%
+2016-11-21 02:07:56,994 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 89%
+2016-11-21 02:08:00,002 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 90%
+2016-11-21 02:08:09,029 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 91%
+2016-11-21 02:08:15,045 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 92%
+2016-11-21 02:08:18,053 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 93%
+2016-11-21 02:08:24,068 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 94%
+2016-11-21 02:08:30,083 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 95%
+2016-11-21 02:08:33,090 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 96%
+2016-11-21 02:08:39,105 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 97%
+2016-11-21 02:08:42,113 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 98%
+2016-11-21 02:08:53,141 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 99%
+2016-11-21 02:08:56,148 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 100%
+2016-11-21 02:09:06,177 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0001 completed successfully
+2016-11-21 02:09:06,308 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 57
+	File System Counters
+		FILE: Number of bytes read=705444102
+		FILE: Number of bytes written=1424295681
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=11342
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=106
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=7091214598
+		S3: Number of bytes written=615421508
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=111
+		Launched reduce tasks=1
+		Data-local map tasks=111
+		Total time spent by all maps in occupied slots (ms)=932508288
+		Total time spent by all reduces in occupied slots (ms)=116661504
+		Total time spent by all map tasks (ms)=19427256
+		Total time spent by all reduce tasks (ms)=1215224
+		Total vcore-milliseconds taken by all map tasks=19427256
+		Total vcore-milliseconds taken by all reduce tasks=1215224
+		Total megabyte-milliseconds taken by all map tasks=29840265216
+		Total megabyte-milliseconds taken by all reduce tasks=3733168128
+	Map-Reduce Framework
+		Map input records=7012253
+		Map output records=3068272
+		Map output bytes=1337087425
+		Map output materialized bytes=705380767
+		Input split bytes=11342
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=3063416
+		Reduce shuffle bytes=705380767
+		Reduce input records=3068272
+		Reduce output records=6424458
+		Spilled Records=6136544
+		Shuffled Maps =106
+		Failed Shuffles=0
+		Merged Map outputs=106
+		GC time elapsed (ms)=116841
+		CPU time spent (ms)=8673290
+		Physical memory (bytes) snapshot=83085172736
+		Virtual memory (bytes) snapshot=352309747712
+		Total committed heap usage (bytes)=72714027008
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	Total
+		Sink=1528573
+		Total=3068272
+	File Input Format Counters 
+		Bytes Read=7091214598
+	File Output Format Counters 
+		Bytes Written=615421508
+2016-11-21 02:09:06,379 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:09:07,032 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 1
+2016-11-21 02:09:07,103 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:10
+2016-11-21 02:09:07,152 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0002
+2016-11-21 02:09:07,173 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0002
+2016-11-21 02:09:07,176 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0002/
+2016-11-21 02:09:07,176 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0002
+2016-11-21 02:09:17,255 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0002 running in uber mode : false
+2016-11-21 02:09:17,255 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:09:33,351 INFO org.apache.hadoop.mapreduce.Job (main):  map 11% reduce 0%
+2016-11-21 02:09:34,356 INFO org.apache.hadoop.mapreduce.Job (main):  map 17% reduce 0%
+2016-11-21 02:09:35,362 INFO org.apache.hadoop.mapreduce.Job (main):  map 22% reduce 0%
+2016-11-21 02:09:36,373 INFO org.apache.hadoop.mapreduce.Job (main):  map 25% reduce 0%
+2016-11-21 02:09:37,378 INFO org.apache.hadoop.mapreduce.Job (main):  map 27% reduce 0%
+2016-11-21 02:09:39,385 INFO org.apache.hadoop.mapreduce.Job (main):  map 29% reduce 0%
+2016-11-21 02:09:40,387 INFO org.apache.hadoop.mapreduce.Job (main):  map 31% reduce 0%
+2016-11-21 02:09:42,399 INFO org.apache.hadoop.mapreduce.Job (main):  map 32% reduce 0%
+2016-11-21 02:09:43,402 INFO org.apache.hadoop.mapreduce.Job (main):  map 33% reduce 0%
+2016-11-21 02:09:44,406 INFO org.apache.hadoop.mapreduce.Job (main):  map 34% reduce 0%
+2016-11-21 02:09:46,417 INFO org.apache.hadoop.mapreduce.Job (main):  map 35% reduce 0%
+2016-11-21 02:09:47,420 INFO org.apache.hadoop.mapreduce.Job (main):  map 36% reduce 0%
+2016-11-21 02:09:49,427 INFO org.apache.hadoop.mapreduce.Job (main):  map 39% reduce 0%
+2016-11-21 02:09:50,430 INFO org.apache.hadoop.mapreduce.Job (main):  map 40% reduce 1%
+2016-11-21 02:09:51,433 INFO org.apache.hadoop.mapreduce.Job (main):  map 42% reduce 1%
+2016-11-21 02:09:52,436 INFO org.apache.hadoop.mapreduce.Job (main):  map 43% reduce 1%
+2016-11-21 02:09:54,441 INFO org.apache.hadoop.mapreduce.Job (main):  map 44% reduce 2%
+2016-11-21 02:09:56,446 INFO org.apache.hadoop.mapreduce.Job (main):  map 44% reduce 3%
+2016-11-21 02:09:57,453 INFO org.apache.hadoop.mapreduce.Job (main):  map 46% reduce 3%
+2016-11-21 02:09:58,456 INFO org.apache.hadoop.mapreduce.Job (main):  map 50% reduce 3%
+2016-11-21 02:10:00,462 INFO org.apache.hadoop.mapreduce.Job (main):  map 53% reduce 3%
+2016-11-21 02:10:01,464 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 3%
+2016-11-21 02:10:02,467 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 4%
+2016-11-21 02:10:04,473 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 4%
+2016-11-21 02:10:05,480 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 4%
+2016-11-21 02:10:06,484 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 4%
+2016-11-21 02:10:09,492 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 4%
+2016-11-21 02:10:10,494 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 4%
+2016-11-21 02:10:12,500 INFO org.apache.hadoop.mapreduce.Job (main):  map 65% reduce 4%
+2016-11-21 02:10:13,503 INFO org.apache.hadoop.mapreduce.Job (main):  map 66% reduce 4%
+2016-11-21 02:10:14,505 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 4%
+2016-11-21 02:10:15,508 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 4%
+2016-11-21 02:10:16,510 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 4%
+2016-11-21 02:10:17,513 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 4%
+2016-11-21 02:10:18,518 INFO org.apache.hadoop.mapreduce.Job (main):  map 74% reduce 5%
+2016-11-21 02:10:19,520 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 5%
+2016-11-21 02:10:21,531 INFO org.apache.hadoop.mapreduce.Job (main):  map 77% reduce 6%
+2016-11-21 02:10:22,534 INFO org.apache.hadoop.mapreduce.Job (main):  map 78% reduce 6%
+2016-11-21 02:10:23,536 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 6%
+2016-11-21 02:10:24,539 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 7%
+2016-11-21 02:10:25,542 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 7%
+2016-11-21 02:10:28,551 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 9%
+2016-11-21 02:10:29,554 INFO org.apache.hadoop.mapreduce.Job (main):  map 83% reduce 9%
+2016-11-21 02:10:30,557 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 9%
+2016-11-21 02:10:31,559 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 9%
+2016-11-21 02:10:32,570 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 11%
+2016-11-21 02:10:33,572 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 11%
+2016-11-21 02:10:34,574 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 11%
+2016-11-21 02:10:35,577 INFO org.apache.hadoop.mapreduce.Job (main):  map 88% reduce 11%
+2016-11-21 02:10:37,588 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 12%
+2016-11-21 02:10:38,590 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 13%
+2016-11-21 02:10:40,597 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 13%
+2016-11-21 02:10:41,600 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 13%
+2016-11-21 02:10:42,603 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 14%
+2016-11-21 02:10:43,605 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 14%
+2016-11-21 02:10:44,608 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 16%
+2016-11-21 02:10:45,610 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 17%
+2016-11-21 02:10:46,612 INFO org.apache.hadoop.mapreduce.Job (main):  map 97% reduce 21%
+2016-11-21 02:10:47,614 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 21%
+2016-11-21 02:10:49,618 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 21%
+2016-11-21 02:10:50,621 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 22%
+2016-11-21 02:10:51,624 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 23%
+2016-11-21 02:10:52,629 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 33%
+2016-11-21 02:10:53,631 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 37%
+2016-11-21 02:10:54,635 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 41%
+2016-11-21 02:10:55,638 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 50%
+2016-11-21 02:10:56,644 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 54%
+2016-11-21 02:10:57,647 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 58%
+2016-11-21 02:10:58,650 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 59%
+2016-11-21 02:10:59,653 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 60%
+2016-11-21 02:11:05,678 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 65%
+2016-11-21 02:11:08,689 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 67%
+2016-11-21 02:11:10,695 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 68%
+2016-11-21 02:11:11,698 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 69%
+2016-11-21 02:11:15,712 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 70%
+2016-11-21 02:11:38,796 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 71%
+2016-11-21 02:11:59,869 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 72%
+2016-11-21 02:12:15,928 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 73%
+2016-11-21 02:12:38,000 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 74%
+2016-11-21 02:12:53,047 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 75%
+2016-11-21 02:13:09,092 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 76%
+2016-11-21 02:13:39,189 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 77%
+2016-11-21 02:13:51,221 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 78%
+2016-11-21 02:14:05,263 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 79%
+2016-11-21 02:14:15,298 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 80%
+2016-11-21 02:14:23,327 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 81%
+2016-11-21 02:14:36,370 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 82%
+2016-11-21 02:14:52,417 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 83%
+2016-11-21 02:15:11,465 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 84%
+2016-11-21 02:15:41,536 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 85%
+2016-11-21 02:16:14,602 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 86%
+2016-11-21 02:17:02,704 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 87%
+2016-11-21 02:17:36,769 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 88%
+2016-11-21 02:17:51,797 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 89%
+2016-11-21 02:18:06,826 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 90%
+2016-11-21 02:18:42,890 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 91%
+2016-11-21 02:19:22,973 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 92%
+2016-11-21 02:19:50,024 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 93%
+2016-11-21 02:20:11,062 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 94%
+2016-11-21 02:20:26,091 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 95%
+2016-11-21 02:24:55,582 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 96%
+2016-11-21 02:25:43,665 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 97%
+2016-11-21 02:25:58,694 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 98%
+2016-11-21 02:31:43,319 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 99%
+2016-11-21 02:31:55,338 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 100%
+2016-11-21 02:32:13,370 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0002 completed successfully
+2016-11-21 02:32:13,416 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 56
+	File System Counters
+		FILE: Number of bytes read=2228630596
+		FILE: Number of bytes written=3334685810
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1100
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=10
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=615547325
+		S3: Number of bytes written=2053623386
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=2
+		Launched map tasks=11
+		Launched reduce tasks=9
+		Data-local map tasks=11
+		Total time spent by all maps in occupied slots (ms)=32495568
+		Total time spent by all reduces in occupied slots (ms)=567822048
+		Total time spent by all map tasks (ms)=676991
+		Total time spent by all reduce tasks (ms)=5914813
+		Total vcore-milliseconds taken by all map tasks=676991
+		Total vcore-milliseconds taken by all reduce tasks=5914813
+		Total megabyte-milliseconds taken by all map tasks=1039858176
+		Total megabyte-milliseconds taken by all reduce tasks=18170305536
+	Map-Reduce Framework
+		Map input records=6424458
+		Map output records=74320011
+		Map output bytes=3828339149
+		Map output materialized bytes=1112737636
+		Input split bytes=1100
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=3361042
+		Reduce shuffle bytes=1112737636
+		Reduce input records=74320011
+		Reduce output records=3361042
+		Spilled Records=222960033
+		Shuffled Maps =90
+		Failed Shuffles=0
+		Merged Map outputs=90
+		GC time elapsed (ms)=118697
+		CPU time spent (ms)=5975270
+		Physical memory (bytes) snapshot=20937777152
+		Virtual memory (bytes) snapshot=74479747072
+		Total committed heap usage (bytes)=19956498432
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=615547325
+	File Output Format Counters 
+		Bytes Written=2053623386
+	
+2016-11-21 02:32:13,460 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:32:14,028 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:32:14,082 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:32:14,119 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0003
+2016-11-21 02:32:14,157 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0003
+2016-11-21 02:32:14,159 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0003/
+2016-11-21 02:32:14,159 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0003
+2016-11-21 02:32:24,263 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0003 running in uber mode : false
+2016-11-21 02:32:24,263 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:32:40,359 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:32:43,370 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:32:49,402 INFO org.apache.hadoop.mapreduce.Job (main):  map 8% reduce 0%
+2016-11-21 02:32:50,406 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:32:51,411 INFO org.apache.hadoop.mapreduce.Job (main):  map 12% reduce 0%
+2016-11-21 02:32:52,420 INFO org.apache.hadoop.mapreduce.Job (main):  map 16% reduce 0%
+2016-11-21 02:32:53,426 INFO org.apache.hadoop.mapreduce.Job (main):  map 19% reduce 0%
+2016-11-21 02:32:54,430 INFO org.apache.hadoop.mapreduce.Job (main):  map 26% reduce 0%
+2016-11-21 02:32:55,434 INFO org.apache.hadoop.mapreduce.Job (main):  map 29% reduce 0%
+2016-11-21 02:32:56,438 INFO org.apache.hadoop.mapreduce.Job (main):  map 38% reduce 0%
+2016-11-21 02:32:57,441 INFO org.apache.hadoop.mapreduce.Job (main):  map 44% reduce 0%
+2016-11-21 02:32:58,446 INFO org.apache.hadoop.mapreduce.Job (main):  map 48% reduce 0%
+2016-11-21 02:32:59,450 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:33:00,459 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:33:01,462 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:33:12,500 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:33:13,505 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:33:14,508 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 0%
+2016-11-21 02:33:15,512 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:33:18,521 INFO org.apache.hadoop.mapreduce.Job (main):  map 69% reduce 0%
+2016-11-21 02:33:19,528 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 0%
+2016-11-21 02:33:20,532 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 0%
+2016-11-21 02:33:21,535 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:33:22,538 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 0%
+2016-11-21 02:33:23,541 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 0%
+2016-11-21 02:33:24,544 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 0%
+2016-11-21 02:33:25,547 INFO org.apache.hadoop.mapreduce.Job (main):  map 97% reduce 0%
+2016-11-21 02:33:26,550 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:33:26,555 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0003 completed successfully
+2016-11-21 02:33:26,745 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 36
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4537430
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=2055730179
+		S3: Number of bytes written=39221394
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=1
+		Launched map tasks=37
+		Data-local map tasks=37
+		Total time spent by all maps in occupied slots (ms)=43929696
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=915202
+		Total vcore-milliseconds taken by all map tasks=915202
+		Total megabyte-milliseconds taken by all map tasks=1405750272
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=21197
+		CPU time spent (ms)=160350
+		Physical memory (bytes) snapshot=13594927104
+		Virtual memory (bytes) snapshot=117698240512
+		Total committed heap usage (bytes)=11821645824
+	File Input Format Counters 
+		Bytes Read=2055730179
+	File Output Format Counters 
+		Bytes Written=39221394
+2016-11-21 02:33:26,779 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:33:27,480 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:33:27,537 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:33:27,568 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0004
+2016-11-21 02:33:27,712 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0004
+2016-11-21 02:33:27,713 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0004/
+2016-11-21 02:33:27,713 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0004
+2016-11-21 02:33:44,799 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0004 running in uber mode : false
+2016-11-21 02:33:44,799 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:34:17,967 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:34:20,977 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:34:21,982 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:34:23,988 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:34:24,992 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:34:56,092 INFO org.apache.hadoop.mapreduce.Job (main):  map 8% reduce 0%
+2016-11-21 02:34:57,095 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:34:59,099 INFO org.apache.hadoop.mapreduce.Job (main):  map 13% reduce 0%
+2016-11-21 02:35:00,102 INFO org.apache.hadoop.mapreduce.Job (main):  map 15% reduce 0%
+2016-11-21 02:35:01,104 INFO org.apache.hadoop.mapreduce.Job (main):  map 17% reduce 0%
+2016-11-21 02:35:02,106 INFO org.apache.hadoop.mapreduce.Job (main):  map 20% reduce 0%
+2016-11-21 02:35:03,114 INFO org.apache.hadoop.mapreduce.Job (main):  map 23% reduce 0%
+2016-11-21 02:35:04,118 INFO org.apache.hadoop.mapreduce.Job (main):  map 25% reduce 0%
+2016-11-21 02:35:05,120 INFO org.apache.hadoop.mapreduce.Job (main):  map 27% reduce 0%
+2016-11-21 02:35:06,122 INFO org.apache.hadoop.mapreduce.Job (main):  map 30% reduce 0%
+2016-11-21 02:35:07,133 INFO org.apache.hadoop.mapreduce.Job (main):  map 32% reduce 0%
+2016-11-21 02:35:08,137 INFO org.apache.hadoop.mapreduce.Job (main):  map 35% reduce 0%
+2016-11-21 02:35:09,140 INFO org.apache.hadoop.mapreduce.Job (main):  map 38% reduce 0%
+2016-11-21 02:35:10,142 INFO org.apache.hadoop.mapreduce.Job (main):  map 41% reduce 0%
+2016-11-21 02:35:11,145 INFO org.apache.hadoop.mapreduce.Job (main):  map 43% reduce 0%
+2016-11-21 02:35:12,148 INFO org.apache.hadoop.mapreduce.Job (main):  map 47% reduce 0%
+2016-11-21 02:35:13,154 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:35:14,158 INFO org.apache.hadoop.mapreduce.Job (main):  map 51% reduce 0%
+2016-11-21 02:35:16,163 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:35:17,166 INFO org.apache.hadoop.mapreduce.Job (main):  map 53% reduce 0%
+2016-11-21 02:35:19,173 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:35:20,182 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:35:21,184 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:35:30,204 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:35:33,211 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:35:37,219 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 0%
+2016-11-21 02:35:40,226 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:35:56,262 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 0%
+2016-11-21 02:35:58,268 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:36:08,290 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:36:11,300 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:36:13,303 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 0%
+2016-11-21 02:36:15,307 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 0%
+2016-11-21 02:36:16,309 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:36:17,311 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 0%
+2016-11-21 02:36:18,313 INFO org.apache.hadoop.mapreduce.Job (main):  map 78% reduce 0%
+2016-11-21 02:36:19,314 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 0%
+2016-11-21 02:36:20,316 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 0%
+2016-11-21 02:36:21,318 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 0%
+2016-11-21 02:36:22,320 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 0%
+2016-11-21 02:36:23,322 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 0%
+2016-11-21 02:36:24,324 INFO org.apache.hadoop.mapreduce.Job (main):  map 93% reduce 0%
+2016-11-21 02:36:25,326 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 0%
+2016-11-21 02:36:26,328 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 0%
+2016-11-21 02:36:29,333 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:36:31,340 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0004 completed successfully
+2016-11-21 02:36:31,367 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587614
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=3467682336
+		S3: Number of bytes written=99720150
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=4
+		Launched map tasks=40
+		Data-local map tasks=40
+		Total time spent by all maps in occupied slots (ms)=124201920
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2587540
+		Total vcore-milliseconds taken by all map tasks=2587540
+		Total megabyte-milliseconds taken by all map tasks=3974461440
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=616827
+		CPU time spent (ms)=947040
+		Physical memory (bytes) snapshot=32208924672
+		Virtual memory (bytes) snapshot=117766963200
+		Total committed heap usage (bytes)=30374625280
+	File Input Format Counters 
+		Bytes Read=2055712152
+	File Output Format Counters 
+		Bytes Written=99720150
+	
+2016-11-21 02:36:31,399 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:36:32,019 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:36:32,088 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:36:32,119 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0005
+2016-11-21 02:36:32,181 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0005
+2016-11-21 02:36:32,183 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0005/
+2016-11-21 02:36:32,183 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0005
+2016-11-21 02:36:50,393 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0005 running in uber mode : false
+2016-11-21 02:36:50,393 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:37:32,592 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:37:33,600 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:37:35,608 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:37:36,612 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:37:38,624 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:38:08,738 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:38:09,745 INFO org.apache.hadoop.mapreduce.Job (main):  map 8% reduce 0%
+2016-11-21 02:38:10,748 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:38:11,751 INFO org.apache.hadoop.mapreduce.Job (main):  map 11% reduce 0%
+2016-11-21 02:38:12,754 INFO org.apache.hadoop.mapreduce.Job (main):  map 13% reduce 0%
+2016-11-21 02:38:13,756 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:38:14,759 INFO org.apache.hadoop.mapreduce.Job (main):  map 17% reduce 0%
+2016-11-21 02:38:15,762 INFO org.apache.hadoop.mapreduce.Job (main):  map 20% reduce 0%
+2016-11-21 02:38:16,768 INFO org.apache.hadoop.mapreduce.Job (main):  map 22% reduce 0%
+2016-11-21 02:38:17,771 INFO org.apache.hadoop.mapreduce.Job (main):  map 25% reduce 0%
+2016-11-21 02:38:18,774 INFO org.apache.hadoop.mapreduce.Job (main):  map 28% reduce 0%
+2016-11-21 02:38:19,777 INFO org.apache.hadoop.mapreduce.Job (main):  map 31% reduce 0%
+2016-11-21 02:38:20,781 INFO org.apache.hadoop.mapreduce.Job (main):  map 36% reduce 0%
+2016-11-21 02:38:21,790 INFO org.apache.hadoop.mapreduce.Job (main):  map 39% reduce 0%
+2016-11-21 02:38:22,793 INFO org.apache.hadoop.mapreduce.Job (main):  map 42% reduce 0%
+2016-11-21 02:38:23,797 INFO org.apache.hadoop.mapreduce.Job (main):  map 46% reduce 0%
+2016-11-21 02:38:24,801 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:38:25,806 INFO org.apache.hadoop.mapreduce.Job (main):  map 51% reduce 0%
+2016-11-21 02:38:26,812 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:38:27,816 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:38:32,830 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:39:06,953 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:39:07,956 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:39:09,962 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 0%
+2016-11-21 02:39:10,965 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:39:19,988 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 0%
+2016-11-21 02:39:22,995 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 0%
+2016-11-21 02:39:23,998 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:39:31,014 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:39:34,025 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:39:37,035 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 0%
+2016-11-21 02:39:38,037 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:39:39,040 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 0%
+2016-11-21 02:39:40,043 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 0%
+2016-11-21 02:39:41,045 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 0%
+2016-11-21 02:39:42,047 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 0%
+2016-11-21 02:39:43,050 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 0%
+2016-11-21 02:39:44,052 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 0%
+2016-11-21 02:39:45,054 INFO org.apache.hadoop.mapreduce.Job (main):  map 93% reduce 0%
+2016-11-21 02:39:46,057 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 0%
+2016-11-21 02:39:48,062 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 0%
+2016-11-21 02:39:49,065 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 0%
+2016-11-21 02:39:51,069 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:39:51,073 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0005 completed successfully
+2016-11-21 02:39:51,104 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587614
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5645635497
+		S3: Number of bytes written=95525074
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=141579936
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2949582
+		Total vcore-milliseconds taken by all map tasks=2949582
+		Total megabyte-milliseconds taken by all map tasks=4530557952
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=631223
+		CPU time spent (ms)=1111090
+		Physical memory (bytes) snapshot=32648433664
+		Virtual memory (bytes) snapshot=117776052224
+		Total committed heap usage (bytes)=31467241472
+	File Input Format Counters 
+		Bytes Read=2055710097
+	File Output Format Counters 
+		Bytes Written=95525074
+	
+2016-11-21 02:39:51,138 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:39:51,918 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:39:51,978 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:39:52,008 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0006
+2016-11-21 02:39:52,135 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0006
+2016-11-21 02:39:52,137 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0006/
+2016-11-21 02:39:52,137 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0006
+2016-11-21 02:40:08,297 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0006 running in uber mode : false
+2016-11-21 02:40:08,297 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:40:47,485 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:40:50,495 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:40:52,501 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:40:53,505 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:40:55,511 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:40:56,515 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:41:23,623 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:41:24,626 INFO org.apache.hadoop.mapreduce.Job (main):  map 8% reduce 0%
+2016-11-21 02:41:25,632 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:41:26,635 INFO org.apache.hadoop.mapreduce.Job (main):  map 12% reduce 0%
+2016-11-21 02:41:27,638 INFO org.apache.hadoop.mapreduce.Job (main):  map 13% reduce 0%
+2016-11-21 02:41:28,640 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:41:29,643 INFO org.apache.hadoop.mapreduce.Job (main):  map 17% reduce 0%
+2016-11-21 02:41:30,646 INFO org.apache.hadoop.mapreduce.Job (main):  map 19% reduce 0%
+2016-11-21 02:41:31,649 INFO org.apache.hadoop.mapreduce.Job (main):  map 21% reduce 0%
+2016-11-21 02:41:32,652 INFO org.apache.hadoop.mapreduce.Job (main):  map 24% reduce 0%
+2016-11-21 02:41:33,655 INFO org.apache.hadoop.mapreduce.Job (main):  map 27% reduce 0%
+2016-11-21 02:41:34,658 INFO org.apache.hadoop.mapreduce.Job (main):  map 29% reduce 0%
+2016-11-21 02:41:35,661 INFO org.apache.hadoop.mapreduce.Job (main):  map 33% reduce 0%
+2016-11-21 02:41:36,665 INFO org.apache.hadoop.mapreduce.Job (main):  map 36% reduce 0%
+2016-11-21 02:41:37,673 INFO org.apache.hadoop.mapreduce.Job (main):  map 41% reduce 0%
+2016-11-21 02:41:38,676 INFO org.apache.hadoop.mapreduce.Job (main):  map 44% reduce 0%
+2016-11-21 02:41:39,679 INFO org.apache.hadoop.mapreduce.Job (main):  map 46% reduce 0%
+2016-11-21 02:41:40,682 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:41:42,688 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:41:43,697 INFO org.apache.hadoop.mapreduce.Job (main):  map 53% reduce 0%
+2016-11-21 02:41:45,705 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:41:50,719 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:42:13,795 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:42:16,806 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:42:19,821 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 0%
+2016-11-21 02:42:20,825 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:42:38,048 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 0%
+2016-11-21 02:42:41,056 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 0%
+2016-11-21 02:42:42,058 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 0%
+2016-11-21 02:42:44,063 INFO org.apache.hadoop.mapreduce.Job (main):  map 66% reduce 0%
+2016-11-21 02:42:45,066 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:42:46,069 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:42:48,074 INFO org.apache.hadoop.mapreduce.Job (main):  map 69% reduce 0%
+2016-11-21 02:42:49,078 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:42:51,084 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 0%
+2016-11-21 02:42:52,086 INFO org.apache.hadoop.mapreduce.Job (main):  map 74% reduce 0%
+2016-11-21 02:42:53,089 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:42:54,093 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 0%
+2016-11-21 02:42:55,095 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 0%
+2016-11-21 02:42:56,098 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 0%
+2016-11-21 02:42:57,101 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 0%
+2016-11-21 02:42:58,103 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 0%
+2016-11-21 02:42:59,109 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 0%
+2016-11-21 02:43:00,111 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 0%
+2016-11-21 02:43:01,114 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 0%
+2016-11-21 02:43:02,119 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:43:03,125 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0006 completed successfully
+2016-11-21 02:43:03,155 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587614
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5494575798
+		S3: Number of bytes written=96913151
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=138345552
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2882199
+		Total vcore-milliseconds taken by all map tasks=2882199
+		Total megabyte-milliseconds taken by all map tasks=4427057664
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=659194
+		CPU time spent (ms)=1081820
+		Physical memory (bytes) snapshot=32592211968
+		Virtual memory (bytes) snapshot=117723029504
+		Total committed heap usage (bytes)=31131697152
+	File Input Format Counters 
+		Bytes Read=2055673134
+	File Output Format Counters 
+		Bytes Written=96913151
+	
+2016-11-21 02:43:03,184 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:43:03,701 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:43:03,749 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:43:03,778 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0007
+2016-11-21 02:43:03,840 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0007
+2016-11-21 02:43:03,842 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0007/
+2016-11-21 02:43:03,842 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0007
+2016-11-21 02:43:21,945 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0007 running in uber mode : false
+2016-11-21 02:43:21,945 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:44:04,149 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:44:07,160 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:44:09,168 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:44:37,269 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:44:38,272 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:44:40,278 INFO org.apache.hadoop.mapreduce.Job (main):  map 10% reduce 0%
+2016-11-21 02:44:41,280 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:44:43,286 INFO org.apache.hadoop.mapreduce.Job (main):  map 16% reduce 0%
+2016-11-21 02:44:44,288 INFO org.apache.hadoop.mapreduce.Job (main):  map 20% reduce 0%
+2016-11-21 02:44:45,291 INFO org.apache.hadoop.mapreduce.Job (main):  map 21% reduce 0%
+2016-11-21 02:44:46,296 INFO org.apache.hadoop.mapreduce.Job (main):  map 22% reduce 0%
+2016-11-21 02:44:47,299 INFO org.apache.hadoop.mapreduce.Job (main):  map 27% reduce 0%
+2016-11-21 02:44:48,302 INFO org.apache.hadoop.mapreduce.Job (main):  map 29% reduce 0%
+2016-11-21 02:44:49,305 INFO org.apache.hadoop.mapreduce.Job (main):  map 32% reduce 0%
+2016-11-21 02:44:50,307 INFO org.apache.hadoop.mapreduce.Job (main):  map 37% reduce 0%
+2016-11-21 02:44:51,311 INFO org.apache.hadoop.mapreduce.Job (main):  map 40% reduce 0%
+2016-11-21 02:44:52,318 INFO org.apache.hadoop.mapreduce.Job (main):  map 43% reduce 0%
+2016-11-21 02:44:53,321 INFO org.apache.hadoop.mapreduce.Job (main):  map 48% reduce 0%
+2016-11-21 02:44:54,326 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:44:55,332 INFO org.apache.hadoop.mapreduce.Job (main):  map 50% reduce 0%
+2016-11-21 02:44:56,335 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:44:59,345 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:45:02,354 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:45:29,447 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:45:30,451 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:45:33,459 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:45:58,537 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 0%
+2016-11-21 02:45:59,540 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 0%
+2016-11-21 02:46:01,545 INFO org.apache.hadoop.mapreduce.Job (main):  map 64% reduce 0%
+2016-11-21 02:46:02,548 INFO org.apache.hadoop.mapreduce.Job (main):  map 65% reduce 0%
+2016-11-21 02:46:03,552 INFO org.apache.hadoop.mapreduce.Job (main):  map 69% reduce 0%
+2016-11-21 02:46:04,555 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:46:05,559 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 0%
+2016-11-21 02:46:06,561 INFO org.apache.hadoop.mapreduce.Job (main):  map 74% reduce 0%
+2016-11-21 02:46:07,564 INFO org.apache.hadoop.mapreduce.Job (main):  map 77% reduce 0%
+2016-11-21 02:46:08,566 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 0%
+2016-11-21 02:46:09,569 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 0%
+2016-11-21 02:46:10,572 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 0%
+2016-11-21 02:46:11,574 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 0%
+2016-11-21 02:46:12,577 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 0%
+2016-11-21 02:46:13,581 INFO org.apache.hadoop.mapreduce.Job (main):  map 93% reduce 0%
+2016-11-21 02:46:14,584 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 0%
+2016-11-21 02:46:15,588 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 0%
+2016-11-21 02:46:16,590 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:46:18,604 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0007 completed successfully
+2016-11-21 02:46:18,635 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587578
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5544571189
+		S3: Number of bytes written=98195199
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=142137840
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2961205
+		Total vcore-milliseconds taken by all map tasks=2961205
+		Total megabyte-milliseconds taken by all map tasks=4548410880
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=661199
+		CPU time spent (ms)=1105130
+		Physical memory (bytes) snapshot=32519962624
+		Virtual memory (bytes) snapshot=117748461568
+		Total committed heap usage (bytes)=30987517952
+	File Input Format Counters 
+		Bytes Read=2055697753
+	File Output Format Counters 
+		Bytes Written=98195199
+	
+2016-11-21 02:46:18,664 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:46:19,386 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:46:19,439 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:46:19,460 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0008
+2016-11-21 02:46:19,583 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0008
+2016-11-21 02:46:19,584 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0008/
+2016-11-21 02:46:19,584 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0008
+2016-11-21 02:46:35,698 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0008 running in uber mode : false
+2016-11-21 02:46:35,698 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:47:15,927 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:47:16,935 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:47:18,940 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:47:19,947 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:47:21,954 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:47:53,053 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:47:54,056 INFO org.apache.hadoop.mapreduce.Job (main):  map 8% reduce 0%
+2016-11-21 02:47:55,058 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:47:56,060 INFO org.apache.hadoop.mapreduce.Job (main):  map 11% reduce 0%
+2016-11-21 02:47:57,065 INFO org.apache.hadoop.mapreduce.Job (main):  map 12% reduce 0%
+2016-11-21 02:47:58,067 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:47:59,070 INFO org.apache.hadoop.mapreduce.Job (main):  map 16% reduce 0%
+2016-11-21 02:48:00,072 INFO org.apache.hadoop.mapreduce.Job (main):  map 20% reduce 0%
+2016-11-21 02:48:01,076 INFO org.apache.hadoop.mapreduce.Job (main):  map 23% reduce 0%
+2016-11-21 02:48:02,079 INFO org.apache.hadoop.mapreduce.Job (main):  map 26% reduce 0%
+2016-11-21 02:48:03,081 INFO org.apache.hadoop.mapreduce.Job (main):  map 30% reduce 0%
+2016-11-21 02:48:04,089 INFO org.apache.hadoop.mapreduce.Job (main):  map 32% reduce 0%
+2016-11-21 02:48:05,091 INFO org.apache.hadoop.mapreduce.Job (main):  map 36% reduce 0%
+2016-11-21 02:48:06,094 INFO org.apache.hadoop.mapreduce.Job (main):  map 39% reduce 0%
+2016-11-21 02:48:07,099 INFO org.apache.hadoop.mapreduce.Job (main):  map 42% reduce 0%
+2016-11-21 02:48:08,102 INFO org.apache.hadoop.mapreduce.Job (main):  map 45% reduce 0%
+2016-11-21 02:48:09,104 INFO org.apache.hadoop.mapreduce.Job (main):  map 47% reduce 0%
+2016-11-21 02:48:10,109 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:48:11,111 INFO org.apache.hadoop.mapreduce.Job (main):  map 51% reduce 0%
+2016-11-21 02:48:12,114 INFO org.apache.hadoop.mapreduce.Job (main):  map 53% reduce 0%
+2016-11-21 02:48:13,120 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:48:14,122 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:48:15,125 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:48:41,189 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:48:44,198 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 0%
+2016-11-21 02:48:45,200 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 0%
+2016-11-21 02:48:47,204 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:49:07,252 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 0%
+2016-11-21 02:49:10,257 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 0%
+2016-11-21 02:49:13,263 INFO org.apache.hadoop.mapreduce.Job (main):  map 65% reduce 0%
+2016-11-21 02:49:14,265 INFO org.apache.hadoop.mapreduce.Job (main):  map 66% reduce 0%
+2016-11-21 02:49:15,268 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:49:16,270 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 0%
+2016-11-21 02:49:17,272 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:49:18,274 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 0%
+2016-11-21 02:49:19,277 INFO org.apache.hadoop.mapreduce.Job (main):  map 79% reduce 0%
+2016-11-21 02:49:20,279 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 0%
+2016-11-21 02:49:21,281 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 0%
+2016-11-21 02:49:22,283 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 0%
+2016-11-21 02:49:23,287 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 0%
+2016-11-21 02:49:24,289 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 0%
+2016-11-21 02:49:25,291 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 0%
+2016-11-21 02:49:26,293 INFO org.apache.hadoop.mapreduce.Job (main):  map 89% reduce 0%
+2016-11-21 02:49:27,295 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 0%
+2016-11-21 02:49:28,298 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 0%
+2016-11-21 02:49:29,300 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 0%
+2016-11-21 02:49:30,303 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 0%
+2016-11-21 02:49:31,305 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:49:33,371 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0008 completed successfully
+2016-11-21 02:49:33,397 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587578
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5590755585
+		S3: Number of bytes written=98395464
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=136204416
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2837592
+		Total vcore-milliseconds taken by all map tasks=2837592
+		Total megabyte-milliseconds taken by all map tasks=4358541312
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=620288
+		CPU time spent (ms)=1108970
+		Physical memory (bytes) snapshot=32767803392
+		Virtual memory (bytes) snapshot=117737869312
+		Total committed heap usage (bytes)=30816075776
+	File Input Format Counters 
+		Bytes Read=2055728421
+	File Output Format Counters 
+		Bytes Written=98395464
+	
+2016-11-21 02:49:33,427 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:49:34,186 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:49:34,239 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:49:34,276 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0009
+2016-11-21 02:49:34,329 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0009
+2016-11-21 02:49:34,331 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0009/
+2016-11-21 02:49:34,331 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0009
+2016-11-21 02:49:50,412 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0009 running in uber mode : false
+2016-11-21 02:49:50,412 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:50:28,562 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:50:31,571 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:50:34,583 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:50:35,586 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:50:38,605 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:50:40,610 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:51:09,692 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:51:11,697 INFO org.apache.hadoop.mapreduce.Job (main):  map 10% reduce 0%
+2016-11-21 02:51:12,700 INFO org.apache.hadoop.mapreduce.Job (main):  map 12% reduce 0%
+2016-11-21 02:51:14,705 INFO org.apache.hadoop.mapreduce.Job (main):  map 15% reduce 0%
+2016-11-21 02:51:15,707 INFO org.apache.hadoop.mapreduce.Job (main):  map 18% reduce 0%
+2016-11-21 02:51:16,710 INFO org.apache.hadoop.mapreduce.Job (main):  map 20% reduce 0%
+2016-11-21 02:51:17,713 INFO org.apache.hadoop.mapreduce.Job (main):  map 22% reduce 0%
+2016-11-21 02:51:18,715 INFO org.apache.hadoop.mapreduce.Job (main):  map 26% reduce 0%
+2016-11-21 02:51:19,718 INFO org.apache.hadoop.mapreduce.Job (main):  map 29% reduce 0%
+2016-11-21 02:51:20,722 INFO org.apache.hadoop.mapreduce.Job (main):  map 31% reduce 0%
+2016-11-21 02:51:21,724 INFO org.apache.hadoop.mapreduce.Job (main):  map 35% reduce 0%
+2016-11-21 02:51:22,726 INFO org.apache.hadoop.mapreduce.Job (main):  map 38% reduce 0%
+2016-11-21 02:51:23,728 INFO org.apache.hadoop.mapreduce.Job (main):  map 40% reduce 0%
+2016-11-21 02:51:24,732 INFO org.apache.hadoop.mapreduce.Job (main):  map 45% reduce 0%
+2016-11-21 02:51:25,735 INFO org.apache.hadoop.mapreduce.Job (main):  map 47% reduce 0%
+2016-11-21 02:51:26,738 INFO org.apache.hadoop.mapreduce.Job (main):  map 48% reduce 0%
+2016-11-21 02:51:27,742 INFO org.apache.hadoop.mapreduce.Job (main):  map 51% reduce 0%
+2016-11-21 02:51:28,744 INFO org.apache.hadoop.mapreduce.Job (main):  map 53% reduce 0%
+2016-11-21 02:51:30,748 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:51:31,751 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:51:32,753 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:51:53,817 INFO org.apache.hadoop.mapreduce.Job (main):  map 57% reduce 0%
+2016-11-21 02:51:56,824 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:52:01,838 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 0%
+2016-11-21 02:52:06,850 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:52:14,866 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 0%
+2016-11-21 02:52:15,870 INFO org.apache.hadoop.mapreduce.Job (main):  map 65% reduce 0%
+2016-11-21 02:52:16,875 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:52:25,894 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:52:28,900 INFO org.apache.hadoop.mapreduce.Job (main):  map 69% reduce 0%
+2016-11-21 02:52:34,912 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:52:35,914 INFO org.apache.hadoop.mapreduce.Job (main):  map 72% reduce 0%
+2016-11-21 02:52:36,916 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 0%
+2016-11-21 02:52:38,922 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:52:39,924 INFO org.apache.hadoop.mapreduce.Job (main):  map 76% reduce 0%
+2016-11-21 02:52:41,928 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 0%
+2016-11-21 02:52:42,930 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 0%
+2016-11-21 02:52:43,933 INFO org.apache.hadoop.mapreduce.Job (main):  map 86% reduce 0%
+2016-11-21 02:52:44,935 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 0%
+2016-11-21 02:52:45,937 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 0%
+2016-11-21 02:52:46,940 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 0%
+2016-11-21 02:52:47,942 INFO org.apache.hadoop.mapreduce.Job (main):  map 96% reduce 0%
+2016-11-21 02:52:48,943 INFO org.apache.hadoop.mapreduce.Job (main):  map 97% reduce 0%
+2016-11-21 02:52:50,948 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 0%
+2016-11-21 02:52:52,955 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:52:53,959 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0009 completed successfully
+2016-11-21 02:52:53,987 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587578
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5597940110
+		S3: Number of bytes written=98531855
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=138367968
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2882666
+		Total vcore-milliseconds taken by all map tasks=2882666
+		Total megabyte-milliseconds taken by all map tasks=4427774976
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=621853
+		CPU time spent (ms)=1101020
+		Physical memory (bytes) snapshot=32543870976
+		Virtual memory (bytes) snapshot=117767766016
+		Total committed heap usage (bytes)=30902059008
+	File Input Format Counters 
+		Bytes Read=2055703406
+	File Output Format Counters 
+		Bytes Written=98531855
+	
+2016-11-21 02:52:54,017 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:52:54,563 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:52:54,621 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:52:54,641 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0010
+2016-11-21 02:52:54,697 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0010
+2016-11-21 02:52:54,698 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0010/
+2016-11-21 02:52:54,698 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0010
+2016-11-21 02:53:11,788 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0010 running in uber mode : false
+2016-11-21 02:53:11,788 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:53:51,976 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:53:53,988 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:53:54,991 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:53:56,998 INFO org.apache.hadoop.mapreduce.Job (main):  map 4% reduce 0%
+2016-11-21 02:53:58,003 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:53:59,011 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:54:28,381 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:54:31,388 INFO org.apache.hadoop.mapreduce.Job (main):  map 10% reduce 0%
+2016-11-21 02:54:33,394 INFO org.apache.hadoop.mapreduce.Job (main):  map 11% reduce 0%
+2016-11-21 02:54:34,396 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:54:35,399 INFO org.apache.hadoop.mapreduce.Job (main):  map 15% reduce 0%
+2016-11-21 02:54:36,403 INFO org.apache.hadoop.mapreduce.Job (main):  map 17% reduce 0%
+2016-11-21 02:54:37,407 INFO org.apache.hadoop.mapreduce.Job (main):  map 21% reduce 0%
+2016-11-21 02:54:38,409 INFO org.apache.hadoop.mapreduce.Job (main):  map 22% reduce 0%
+2016-11-21 02:54:39,412 INFO org.apache.hadoop.mapreduce.Job (main):  map 25% reduce 0%
+2016-11-21 02:54:40,415 INFO org.apache.hadoop.mapreduce.Job (main):  map 31% reduce 0%
+2016-11-21 02:54:41,420 INFO org.apache.hadoop.mapreduce.Job (main):  map 33% reduce 0%
+2016-11-21 02:54:42,423 INFO org.apache.hadoop.mapreduce.Job (main):  map 36% reduce 0%
+2016-11-21 02:54:43,427 INFO org.apache.hadoop.mapreduce.Job (main):  map 41% reduce 0%
+2016-11-21 02:54:44,430 INFO org.apache.hadoop.mapreduce.Job (main):  map 43% reduce 0%
+2016-11-21 02:54:45,434 INFO org.apache.hadoop.mapreduce.Job (main):  map 46% reduce 0%
+2016-11-21 02:54:46,437 INFO org.apache.hadoop.mapreduce.Job (main):  map 49% reduce 0%
+2016-11-21 02:54:47,444 INFO org.apache.hadoop.mapreduce.Job (main):  map 50% reduce 0%
+2016-11-21 02:54:48,451 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:54:49,454 INFO org.apache.hadoop.mapreduce.Job (main):  map 54% reduce 0%
+2016-11-21 02:54:50,457 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:54:51,460 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:55:24,561 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:55:26,567 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 0%
+2016-11-21 02:55:27,571 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 0%
+2016-11-21 02:55:28,573 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:55:49,644 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:55:50,648 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:55:52,655 INFO org.apache.hadoop.mapreduce.Job (main):  map 69% reduce 0%
+2016-11-21 02:55:53,659 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:55:55,664 INFO org.apache.hadoop.mapreduce.Job (main):  map 71% reduce 0%
+2016-11-21 02:55:56,672 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 0%
+2016-11-21 02:55:57,675 INFO org.apache.hadoop.mapreduce.Job (main):  map 74% reduce 0%
+2016-11-21 02:55:58,678 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:55:59,685 INFO org.apache.hadoop.mapreduce.Job (main):  map 78% reduce 0%
+2016-11-21 02:56:01,690 INFO org.apache.hadoop.mapreduce.Job (main):  map 82% reduce 0%
+2016-11-21 02:56:02,693 INFO org.apache.hadoop.mapreduce.Job (main):  map 85% reduce 0%
+2016-11-21 02:56:03,697 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 0%
+2016-11-21 02:56:04,700 INFO org.apache.hadoop.mapreduce.Job (main):  map 91% reduce 0%
+2016-11-21 02:56:05,702 INFO org.apache.hadoop.mapreduce.Job (main):  map 93% reduce 0%
+2016-11-21 02:56:06,704 INFO org.apache.hadoop.mapreduce.Job (main):  map 95% reduce 0%
+2016-11-21 02:56:07,707 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 0%
+2016-11-21 02:56:08,710 INFO org.apache.hadoop.mapreduce.Job (main):  map 99% reduce 0%
+2016-11-21 02:56:09,715 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:56:10,720 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0010 completed successfully
+2016-11-21 02:56:10,750 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587578
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5602817753
+		S3: Number of bytes written=98597146
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=140832864
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2934018
+		Total vcore-milliseconds taken by all map tasks=2934018
+		Total megabyte-milliseconds taken by all map tasks=4506651648
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=649529
+		CPU time spent (ms)=1111110
+		Physical memory (bytes) snapshot=32590749696
+		Virtual memory (bytes) snapshot=117788884992
+		Total committed heap usage (bytes)=30955012096
+	File Input Format Counters 
+		Bytes Read=2055670973
+	File Output Format Counters 
+		Bytes Written=98597146
+
+2016-11-21 02:56:10,775 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:56:11,379 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:56:11,454 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:56:11,475 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0011
+2016-11-21 02:56:11,595 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0011
+2016-11-21 02:56:11,606 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0011/
+2016-11-21 02:56:11,606 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0011
+2016-11-21 02:56:29,760 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0011 running in uber mode : false
+2016-11-21 02:56:29,760 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2016-11-21 02:57:11,954 INFO org.apache.hadoop.mapreduce.Job (main):  map 1% reduce 0%
+2016-11-21 02:57:13,960 INFO org.apache.hadoop.mapreduce.Job (main):  map 2% reduce 0%
+2016-11-21 02:57:14,964 INFO org.apache.hadoop.mapreduce.Job (main):  map 3% reduce 0%
+2016-11-21 02:57:17,977 INFO org.apache.hadoop.mapreduce.Job (main):  map 5% reduce 0%
+2016-11-21 02:57:18,985 INFO org.apache.hadoop.mapreduce.Job (main):  map 6% reduce 0%
+2016-11-21 02:57:43,087 INFO org.apache.hadoop.mapreduce.Job (main):  map 7% reduce 0%
+2016-11-21 02:57:46,095 INFO org.apache.hadoop.mapreduce.Job (main):  map 9% reduce 0%
+2016-11-21 02:57:47,100 INFO org.apache.hadoop.mapreduce.Job (main):  map 10% reduce 0%
+2016-11-21 02:57:48,103 INFO org.apache.hadoop.mapreduce.Job (main):  map 11% reduce 0%
+2016-11-21 02:57:49,105 INFO org.apache.hadoop.mapreduce.Job (main):  map 14% reduce 0%
+2016-11-21 02:57:50,108 INFO org.apache.hadoop.mapreduce.Job (main):  map 16% reduce 0%
+2016-11-21 02:57:51,111 INFO org.apache.hadoop.mapreduce.Job (main):  map 18% reduce 0%
+2016-11-21 02:57:52,114 INFO org.apache.hadoop.mapreduce.Job (main):  map 21% reduce 0%
+2016-11-21 02:57:53,116 INFO org.apache.hadoop.mapreduce.Job (main):  map 24% reduce 0%
+2016-11-21 02:57:54,120 INFO org.apache.hadoop.mapreduce.Job (main):  map 26% reduce 0%
+2016-11-21 02:57:55,128 INFO org.apache.hadoop.mapreduce.Job (main):  map 28% reduce 0%
+2016-11-21 02:57:56,131 INFO org.apache.hadoop.mapreduce.Job (main):  map 32% reduce 0%
+2016-11-21 02:57:57,137 INFO org.apache.hadoop.mapreduce.Job (main):  map 34% reduce 0%
+2016-11-21 02:57:58,140 INFO org.apache.hadoop.mapreduce.Job (main):  map 38% reduce 0%
+2016-11-21 02:57:59,143 INFO org.apache.hadoop.mapreduce.Job (main):  map 41% reduce 0%
+2016-11-21 02:58:00,147 INFO org.apache.hadoop.mapreduce.Job (main):  map 43% reduce 0%
+2016-11-21 02:58:01,154 INFO org.apache.hadoop.mapreduce.Job (main):  map 47% reduce 0%
+2016-11-21 02:58:02,157 INFO org.apache.hadoop.mapreduce.Job (main):  map 50% reduce 0%
+2016-11-21 02:58:03,160 INFO org.apache.hadoop.mapreduce.Job (main):  map 52% reduce 0%
+2016-11-21 02:58:04,167 INFO org.apache.hadoop.mapreduce.Job (main):  map 55% reduce 0%
+2016-11-21 02:58:07,182 INFO org.apache.hadoop.mapreduce.Job (main):  map 56% reduce 0%
+2016-11-21 02:58:37,286 INFO org.apache.hadoop.mapreduce.Job (main):  map 58% reduce 0%
+2016-11-21 02:58:50,332 INFO org.apache.hadoop.mapreduce.Job (main):  map 59% reduce 0%
+2016-11-21 02:58:53,341 INFO org.apache.hadoop.mapreduce.Job (main):  map 60% reduce 0%
+2016-11-21 02:58:56,352 INFO org.apache.hadoop.mapreduce.Job (main):  map 61% reduce 0%
+2016-11-21 02:59:05,384 INFO org.apache.hadoop.mapreduce.Job (main):  map 62% reduce 0%
+2016-11-21 02:59:06,386 INFO org.apache.hadoop.mapreduce.Job (main):  map 63% reduce 0%
+2016-11-21 02:59:08,393 INFO org.apache.hadoop.mapreduce.Job (main):  map 66% reduce 0%
+2016-11-21 02:59:09,395 INFO org.apache.hadoop.mapreduce.Job (main):  map 67% reduce 0%
+2016-11-21 02:59:10,398 INFO org.apache.hadoop.mapreduce.Job (main):  map 68% reduce 0%
+2016-11-21 02:59:11,400 INFO org.apache.hadoop.mapreduce.Job (main):  map 70% reduce 0%
+2016-11-21 02:59:12,403 INFO org.apache.hadoop.mapreduce.Job (main):  map 73% reduce 0%
+2016-11-21 02:59:13,406 INFO org.apache.hadoop.mapreduce.Job (main):  map 75% reduce 0%
+2016-11-21 02:59:14,408 INFO org.apache.hadoop.mapreduce.Job (main):  map 77% reduce 0%
+2016-11-21 02:59:15,411 INFO org.apache.hadoop.mapreduce.Job (main):  map 80% reduce 0%
+2016-11-21 02:59:16,414 INFO org.apache.hadoop.mapreduce.Job (main):  map 81% reduce 0%
+2016-11-21 02:59:17,416 INFO org.apache.hadoop.mapreduce.Job (main):  map 84% reduce 0%
+2016-11-21 02:59:18,418 INFO org.apache.hadoop.mapreduce.Job (main):  map 87% reduce 0%
+2016-11-21 02:59:19,421 INFO org.apache.hadoop.mapreduce.Job (main):  map 90% reduce 0%
+2016-11-21 02:59:20,429 INFO org.apache.hadoop.mapreduce.Job (main):  map 92% reduce 0%
+2016-11-21 02:59:21,432 INFO org.apache.hadoop.mapreduce.Job (main):  map 94% reduce 0%
+2016-11-21 02:59:22,437 INFO org.apache.hadoop.mapreduce.Job (main):  map 98% reduce 0%
+2016-11-21 02:59:23,441 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2016-11-21 02:59:24,446 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0011 completed successfully
+2016-11-21 02:59:24,479 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 37
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=4587578
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=3924
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=36
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5605196790
+		S3: Number of bytes written=98653505
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Killed map tasks=5
+		Launched map tasks=41
+		Data-local map tasks=41
+		Total time spent by all maps in occupied slots (ms)=139836336
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=2913257
+		Total vcore-milliseconds taken by all map tasks=2913257
+		Total megabyte-milliseconds taken by all map tasks=4474762752
+	Map-Reduce Framework
+		Map input records=3361042
+		Map output records=3361042
+		Input split bytes=3924
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=620137
+		CPU time spent (ms)=1102710
+		Physical memory (bytes) snapshot=32597639168
+		Virtual memory (bytes) snapshot=117756493824
+		Total committed heap usage (bytes)=31191990272
+	File Input Format Counters 
+		Bytes Read=2055699534
+	File Output Format Counters 
+		Bytes Written=98653505
+
+2016-11-21 02:59:24,502 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-16-152.ec2.internal/172.31.16.152:8032
+2016-11-21 02:59:25,113 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 9
+2016-11-21 02:59:25,169 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:36
+2016-11-21 02:59:25,206 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1479692546333_0012
+2016-11-21 02:59:25,332 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1479692546333_0012
+2016-11-21 02:59:25,334 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-16-152.ec2.internal:20888/proxy/application_1479692546333_0012/
+2016-11-21 02:59:25,334 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1479692546333_0012
+2016-11-21 02:59:41,459 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1479692546333_0012 running in uber mode : false
+2016-11-21 02:59:41,460 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
